@@ -1,0 +1,11 @@
+
+[D[A[C[A[C[C[C[C[C[C 
+[A[6~[6~[C[C[C[C[C[C[C[Cindex.txt
+
+
+
+clear
+$ clear
+
+
+vi index.txt
